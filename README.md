@@ -29,7 +29,7 @@ Les contraintes imposées étaient les suivantes :
 - **Stockage local** : Client et serveur hébergés sur une même machine.  
 
 ### 🖼️ Schéma de l'architecture  
-[schéma de l'infrastructure](./schéma.png)  
+![schéma de l'infrastructure](./schéma.png) *(schéma de l'infrastructure)* 
 
 ## 👥 Répartition des tâches  
 
